@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Aswariya bachan",
+        "email":"Aswariya@gmail.com",
+        "age":"20",
+        "city":"Mumbai"
+    },
+    {
+        "name":"Karina Kapoor",
+        "email":"Karina@gmail.com",
+        "age":"19",
+        "city":"Delhi"
+    },{
+        "name":"Dipika Padukon",
+        "email":"Dipika@gmail.com",
+        "age":"17",
+        "city":"Banglore" 
+    }
+]
